@@ -19,7 +19,7 @@ To set up the project locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/futuristic-games-table.git
+git clone https://github.com/alhussienhazem/futuristic-games-table.git
 
 # Navigate to the project folder
 cd futuristic-games-table
