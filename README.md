@@ -6,11 +6,11 @@ Futuristic Games Table is an interactive web application that showcases a variet
 
 ## 📌 Table of Contents
 - [🚀 Installation](#-installation)
-- [🎮 Usage](#usage)
-- [✨ Features](#features)
-- [🔧 Technologies Used](#technologies-used)
-- [ 📜 License](#license)
-- [🙏 Credits](#credits)
+- [🎮 Usage](#-usage)
+- [✨ Features](#-features)
+- [🔧 Technologies Used](#-technologies-used)
+- [ 📜 License](#-license)
+- [🙏 Credits](#c-redits)
 
 ## 🚀 Installation
 
