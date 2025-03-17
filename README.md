@@ -12,6 +12,7 @@ Futuristic Games Table is an interactive web application that showcases a variet
 - [🙏 Credits](#-credits)
 - [ 📜 License](#-license)
 
+---
 
 ## 🚀 Installation
 
@@ -30,12 +31,16 @@ start index.html  # For Windows
 xdg-open index.html  # For Linux
 ```
 
+---
+
 ## 🎮 Usage
 
 Simply open `index.html` in your preferred web browser to explore the interactive table. You will find:
 
 * A dynamic list of games, including their **type, platform, description, and images**
 * Interactive animations and hover effects for an engaging experience
+
+---
 
 ## ✨ Features
 
@@ -46,6 +51,8 @@ Simply open `index.html` in your preferred web browser to explore the interactiv
 ✔️ **Glassmorphism UI** – Uses backdrop filters and transparency for a modern feel  
 ✔️ **Cyberpunk-Inspired Theme** – Neon gradients and glowing UI elements  
 
+---
+
 ## 🔧 Technologies Used
 
 * **HTML** – Structure and content
@@ -55,12 +62,15 @@ Simply open `index.html` in your preferred web browser to explore the interactiv
 * **GSAP (GreenSock)** – Smooth animations and transitions
 * **Google Fonts** – Uses "Poppins" and "Orbitron" for a futuristic feel
 
+---
 
 ## 🙏 Credits
 
 * Three.js for the 3D particle background
 * GSAP for smooth animations
 * Google Fonts for the "Poppins" and "Orbitron" fonts
+
+---
 
 ## 📜 License
 
